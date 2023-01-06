@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Eder Jr 👋
 
-- 🔭 Hoje sou estagiário em Desenvolvimento de Software
+- 🔭 Desenvolvedor Júnior Front-end
 - 🌱 Cursando Engenharia de Software
 - 📫 Contate-me no email: ederjuninho2003@gmail.com
 
