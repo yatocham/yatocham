@@ -30,5 +30,7 @@
   <a href="https://www.linkedin.com/in/eder-junior-72b350168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/yatocham/yatocham/blob/output/github-contribution-grid-snake.svg)
+  https://raw.githubusercontent.com/yatocham/yatocham/output/github-contribution-grid-snake.svg
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
  </div>
